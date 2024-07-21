@@ -12,7 +12,7 @@ function App() {
         <Navbar />
         <Dashboard />
       </Box>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
