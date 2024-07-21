@@ -3,6 +3,7 @@ import "./App.css";
 import Dashboard from "./container/Dashboard";
 import Navbar from "./shared/Navbar";
 import { Box } from "@mui/material";
+import Footer from "./shared/Footer";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Navbar />
         <Dashboard />
       </Box>
+      <Footer />
     </div>
   );
 }

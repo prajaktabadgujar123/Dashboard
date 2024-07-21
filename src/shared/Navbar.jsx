@@ -14,7 +14,7 @@ const Navbar = () => {
         justifyContent: "space-between",
         // backgroundColor: "white",
         height: "70px",
-        backgroundColor: "#555ac3",
+        backgroundColor: "black",
         // backgroundColor: "#676cd2",
       }}
       className="appBar"
